@@ -1,0 +1,37 @@
+Comment	Designator	Footprint	Description	ALLIED_NUMBER	ALLIED_PRICE-STOCK	DESCRIPTION	HEIGHT	MANUFACTURER_NAME	MANUFACTURER_PART_NUMBER	MF	MOUSER_PART_NUMBER	MOUSER_PRICE-STOCK	MPN	OC_FARNELL	OC_NEWARK	RS_PART_NUMBER	RS_PRICE-STOCK
+BZX85	$1_7_$_2020-04-16_11-26-40	DO41Z10	Z DIODE														
+BZX85	$1_8_$_2020-04-16_11-26-40	DO41Z10	Z DIODE														
+	++ALIM--	KK-156-2	KK 156 HEADER											unknown	unknown		
+10nF	C1	1206_C	CAPACITOR, European symbol														
+10nF	C2	1206_C	CAPACITOR, European symbol														
+10nF	C3	1206_C	CAPACITOR, European symbol														
+10nF	C4	1206_C	CAPACITOR, European symbol														
+100nF	C5	1206_C	CAPACITOR, European symbol														
+47nF	C6	1206_C	CAPACITOR, European symbol														
+220µF/25V	C7	E3,5-8	POLARIZED CAPACITOR, European symbol														
+691313710004	DATA	SHDR4W140P0X500_1X4_2200X1200X	WR-TBL Terminal block - serie 3137			WR-TBL Terminal block - serie 3137	8.7mm	Wurth Elektronik	691313710004		710-691313710004	https://www.mouser.com/Search/Refine.aspx?Keyword=710-691313710004				8246576	http://uk.rs-online.com/web/p/products/8246576
+	ENTREE	KK-156-2	KK 156 HEADER											unknown	unknown		
+LM358D	IC01	SO08	OP AMP also LM158; LM258; LM2904														
+LM386M-1	IC2	SO08	Low Voltage Audio Power Amplifier														
+LM358D	IC04	SO08	OP AMP also LM158; LM258; LM2904														
+LM311D	IC05	SO08	COMPARATOR														
+78L05SMD	IC06	SO08	Positive VOLTAGE REGULATOR														
+	LED1	LED5MM	LED														
+22k	R1	1206_R	RESISTOR, European symbol														
+2.2k	R2	1206_R	RESISTOR, European symbol														
+68k	R3	1206_R	RESISTOR, European symbol														
+18k	R4	1206_R	RESISTOR, European symbol														
+1.5k	R5	1206_R	RESISTOR, European symbol														
+47k	R6	1206_R	RESISTOR, European symbol														
+10R	R7	1206_R	RESISTOR, European symbol														
+100k	R8	1206_R	RESISTOR, European symbol														
+10k	R9	1206_R	RESISTOR, European symbol														
+PTR901-2015K-B103	R10	PTR9012015KB103	Bourns PTR901-2015K-B103 Rotary Carbon Potentiometer 1 Gang with a 6 mm Dia. Shaft, Through Hole, 10k +/-10%, 0.05W	71279411	https://www.alliedelec.com/bourns-ptr901-2015k-b103/71279411/	Bourns PTR901-2015K-B103 Rotary Carbon Potentiometer 1 Gang with a 6 mm Dia. Shaft, Through Hole, 10k +/-10%, 0.05W	mm	Bourns	PTR901-2015K-B103		652-PTR901-2015KB103	https://www.mouser.com/Search/Refine.aspx?Keyword=652-PTR901-2015KB103				8275003P	http://uk.rs-online.com/web/p/products/8275003P
+8.2k	R11	R1210	RESISTOR, European symbol														
+270R	R12	1206_R	RESISTOR, European symbol														
+8.2k	R13	R1210	RESISTOR, European symbol														
+150R	R101	0207/10	RESISTOR, European symbol														
+15R	R102	0207/10	RESISTOR, European symbol														
+	SORTIE	KK-156-2	KK 156 HEADER											unknown	unknown		
+LM-NP-1001-B1L	TRIN	LMNP1001B1L	BOURNS - LM-NP-1001-B1L - TRANSFORMER, LINE-MATCHING 1:1, 2.8H	70154707	https://www.alliedelec.com/bourns-lm-np-1001-b1l/70154707/	BOURNS - LM-NP-1001-B1L - TRANSFORMER, LINE-MATCHING 1:1, 2.8H	12mm	Bourns	LM-NP-1001-B1L		652-LM-NP-1001-B1L	https://www.mouser.com/Search/Refine.aspx?Keyword=652-LM-NP-1001-B1L				1740620	http://uk.rs-online.com/web/p/products/1740620
+LM-NP-1001-B1L	TROUT	LMNP1001B1L	BOURNS - LM-NP-1001-B1L - TRANSFORMER, LINE-MATCHING 1:1, 2.8H	70154707	https://www.alliedelec.com/bourns-lm-np-1001-b1l/70154707/	BOURNS - LM-NP-1001-B1L - TRANSFORMER, LINE-MATCHING 1:1, 2.8H	12mm	Bourns	LM-NP-1001-B1L		652-LM-NP-1001-B1L	https://www.mouser.com/Search/Refine.aspx?Keyword=652-LM-NP-1001-B1L				1740620	http://uk.rs-online.com/web/p/products/1740620
